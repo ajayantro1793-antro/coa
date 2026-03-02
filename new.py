@@ -1,1 +1,0 @@
-print("vankam da mapla")
